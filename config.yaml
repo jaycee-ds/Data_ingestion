@@ -1,0 +1,11 @@
+---
+  File format: tsv
+  Separator: "\t"
+  Columns:
+    - Language
+    - Source
+    - Date
+    - Text
+  Number of columns: 4
+  Max number of rows admitted: 20000000
+  Max size admitted: 10
